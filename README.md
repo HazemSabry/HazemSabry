@@ -1,4 +1,4 @@
-<img width="500" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcyb3RldXc4b2g0ajVxY3cwb2ozcjk1aHY5MmRlZnl2NDlzb3JmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img width="250" align="right" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDcyb3RldXc4b2g0ajVxY3cwb2ozcjk1aHY5MmRlZnl2NDlzb3JmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://i.gifer.com/3Eqa.gif)">
 
 <h3 align="center">
   Welcome to Hazem Sabry's profile!
