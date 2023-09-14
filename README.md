@@ -1,10 +1,8 @@
 <img width="250" align="right" src="https://i.gifer.com/3Eqa.gif">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1945&color=5A6BF7&width=435&lines=Welcome+to+Hazem+Sabry's+profile;I'am+Happy+to+get+you+to+here" alt="Typing SVG" /></a>
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1945&color=5A6BF7&width=435&lines=Welcome+to+Hazem+Sabry's+profile;I'am+Happy+to+get+you+to+here" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
