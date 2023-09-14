@@ -5,11 +5,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1945&color=5A6BF7&width=435&lines=Welcome+to+Hazem+Sabry's+profile;I'am+Happy+to+get+you+to+here!" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+- I'm a Software Engineer training to work as Full Stack web developer
+- As a  faculty of engineering cairo alexandria university student, I'm constantly learning and exploring new technologies to improve my skills.
+- Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
+<!--- Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.-->
 
 
 ### Connect with Me :
