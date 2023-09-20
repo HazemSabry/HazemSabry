@@ -21,16 +21,19 @@
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows10&logoColor=%230078D4)&nbsp;
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=CB3837)&nbsp;
+![yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn&logoColor=2C8EBB)&nbsp;
+![pnpm](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm&logoColor=F69220)&nbsp;
+<!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;-->
+<!--![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;-->
+<!--![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;-->
+<!--![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;-->
 
 <!--
 ### 🗃 &nbsp;React Libraries
