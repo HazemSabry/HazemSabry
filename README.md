@@ -1,11 +1,8 @@
-<img width="250" align="right" src="https://i.gifer.com/3Eqa.gif">
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Rubik&duration=2000&pause=100&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=254&height=179&lines=from+ME+import+*;while+True%3A;++++eat();++++code();++++sleep()" alt="Typing SVG" />
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1945&color=5A6BF7&width=435&lines=Welcome+to+Hazem+Sabry's+profile;I'am+Happy+to+get+you+to+here!" alt="Typing SVG" /></a>
-</p> 
-<p align="right">
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Rubik&duration=2000&pause=100&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=254&height=179&lines=from+ME+import+*;while+True%3A;++++eat();++++code();++++sleep()" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1945&color=5A6BF7&width=435&lines=Welcome+to+Hazem+Sabry's+profile;I'am+Happy+to+get+you+to+here!" alt="Typing SVG" />
 </p> 
 
 - I'm a Software Engineer training to work as Full Stack web developer
