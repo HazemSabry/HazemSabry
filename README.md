@@ -45,3 +45,11 @@
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-05122A?style=flat&logo=framer&logoColor=0055FF)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios&logoColor=5A29E4)&nbsp;
 -->
+
+<!--
+### ☁ &nbsp;Hosting Platforms
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=000000)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazonaws&logoColor=232F3E)&nbsp;
+![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify&logoColor=00C7B7)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+-->
