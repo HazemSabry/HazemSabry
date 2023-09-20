@@ -34,6 +34,8 @@
 <!--![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;-->
 <!--![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;-->
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;-->
+<!--![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom&logoColor=66595C)&nbsp;-->
+<!--![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublimetext&logoColor=FF9800)&nbsp;-->
 
 <!--
 ### 🗃 &nbsp;React Libraries
