@@ -1,14 +1,14 @@
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Rubik&duration=2000&pause=100&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=254&height=179&lines=from+ME+import+*;while+True%3A;++++eat();++++code();++++sleep()" alt="Typing SVG" />
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1945&color=5A6BF7&width=435&lines=Welcome+to+Hazem+Sabry's+profile;I'am+Happy+to+get+you+to+here!" alt="Typing SVG" />
 </p> 
 
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Rubik&duration=2000&pause=100&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=254&height=179&lines=from+ME+import+*;while+True%3A;++++eat();++++code();++++sleep()" alt="Typing SVG" />
+
 - I'm a Software Engineer training to work as Full Stack web developer
 - As a  faculty of engineering cairo alexandria university student, I'm constantly learning and exploring new technologies to improve my skills.
 - Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
-<!--- Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.-->
+<!--- Check out my portfolio at  to see some of the projects I've worked on.-->
 
 
 ### Connect with Me :
