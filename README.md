@@ -17,6 +17,7 @@
 </a>
 <a href="https://wa.me/+201117176767" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Hazem%20Sabry-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white">
 </a>
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
@@ -31,4 +32,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows10&logoColor=%230078D4)&nbsp;
 
-<!--### 🗃 &nbsp;React Libraries-->
+<!--
+### 🗃 &nbsp;React Libraries
+![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=reactrouter&logoColor=FF4154)&nbsp;
+![Redux & Redux Toolkit](https://img.shields.io/badge/-Redux%20&%20Redux%20Toolkit-05122A?style=flat&logo=redux&logoColor=764ABC)&nbsp;
+-->
