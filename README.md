@@ -43,4 +43,5 @@
 ![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui&logoColor=007FFF)&nbsp;
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-05122A?style=flat&logo=framer&logoColor=0055FF)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios&logoColor=5A29E4)&nbsp;
+![Semantic Ui React](https://img.shields.io/badge/-Semantic%20Ui%20React-05122A?style=flat&logo=semanticuireact&logoColor=35BDB2)&nbsp;
 -->
