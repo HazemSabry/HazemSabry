@@ -21,8 +21,8 @@
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -36,6 +36,14 @@
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;-->
 <!--![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom&logoColor=66595C)&nbsp;-->
 <!--![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublimetext&logoColor=FF9800)&nbsp;-->
+<!--![JSS](https://img.shields.io/badge/-JSS-05122A?style=flat&logo=jss&logoColor=F7DF1E)&nbsp;-->
+<!--![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-05122A?style=flat&logo=cssmodules&logoColor=000000)&nbsp;-->
+<!--![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;-->
+<!--![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp;-->
+<!--![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=17202C)&nbsp;-->
+<!--![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=21759B)&nbsp;-->
+<!--![Tailwind CSS](https://img.shields.io/badge/-Tailwind&20CSS-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4)&nbsp;-->
+<!--![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=000000)&nbsp;-->
 
 <!--
 ### 🗃 &nbsp;React Libraries
