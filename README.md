@@ -44,6 +44,7 @@
 <!--![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=21759B)&nbsp;-->
 <!--![Tailwind CSS](https://img.shields.io/badge/-Tailwind&20CSS-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4)&nbsp;-->
 <!--![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=000000)&nbsp;-->
+<!--![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-05122A?style=flat&logo=mantine&logoColor=#339AF0)&nbsp;-->
 
 <!--
 ### 🗃 &nbsp;React Libraries
