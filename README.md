@@ -30,6 +30,7 @@
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=CB3837)&nbsp;
 ![yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn&logoColor=2C8EBB)&nbsp;
 ![pnpm](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm&logoColor=F69220)&nbsp;
+![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-05122A?style=flat&logo=cssmodules&logoColor=000000)&nbsp;
 <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;-->
 <!--![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;-->
 <!--![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;-->
@@ -37,7 +38,6 @@
 <!--![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom&logoColor=66595C)&nbsp;-->
 <!--![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublimetext&logoColor=FF9800)&nbsp;-->
 <!--![JSS](https://img.shields.io/badge/-JSS-05122A?style=flat&logo=jss&logoColor=F7DF1E)&nbsp;-->
-<!--![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-05122A?style=flat&logo=cssmodules&logoColor=000000)&nbsp;-->
 <!--![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;-->
 <!--![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp;-->
 <!--![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=17202C)&nbsp;-->
