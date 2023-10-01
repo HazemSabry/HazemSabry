@@ -45,6 +45,10 @@
 <!--![Tailwind CSS](https://img.shields.io/badge/-Tailwind&20CSS-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4)&nbsp;-->
 <!--![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=000000)&nbsp;-->
 <!--![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-05122A?style=flat&logo=mantine&logoColor=#339AF0)&nbsp;-->
+<!--![Turborepo](https://img.shields.io/badge/-Turborepo-05122A?style=flat&logo=turborepo&logoColor=EF4444)&nbsp;-->
+<!--![Nx](https://img.shields.io/badge/-Nx-05122A?style=flat&logo=nx&logoColor=143055)&nbsp;-->
+<!--![NXP](https://img.shields.io/badge/-NXP-05122A?style=flat&logo=nxp&logoColor=000000)&nbsp;-->
+<!--![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;-->
 
 <!--
 ### 🗃 &nbsp;React Libraries
