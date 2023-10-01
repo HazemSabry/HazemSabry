@@ -49,6 +49,7 @@
 <!--![Nx](https://img.shields.io/badge/-Nx-05122A?style=flat&logo=nx&logoColor=143055)&nbsp;-->
 <!--![NXP](https://img.shields.io/badge/-NXP-05122A?style=flat&logo=nxp&logoColor=000000)&nbsp;-->
 <!--![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;-->
+<!--![Lerna](https://img.shields.io/badge/-Lerna-05122A?style=flat&logo=lerna&logoColor=9333EA)&nbsp;-->
 
 <!--
 ### 🗃 &nbsp;React Libraries
