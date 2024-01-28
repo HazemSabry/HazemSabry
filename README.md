@@ -26,6 +26,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows10&logoColor=%230078D4)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=CB3837)&nbsp;
 ![yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn&logoColor=2C8EBB)&nbsp;
