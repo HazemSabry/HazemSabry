@@ -13,7 +13,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/hazem-sabry-1b1ab021a/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Hazem%20Sabry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/hazemsabry2002/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Hazem%20Sabry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 <a href="https://wa.me/+201117176767" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Hazem%20Sabry-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white">
 </a>
