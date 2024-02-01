@@ -52,6 +52,8 @@
 <!--![NXP](https://img.shields.io/badge/-NXP-05122A?style=flat&logo=nxp&logoColor=000000)&nbsp;-->
 <!--![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;-->
 <!--![Lerna](https://img.shields.io/badge/-Lerna-05122A?style=flat&logo=lerna&logoColor=9333EA)&nbsp;-->
+<!--![Vite](https://img.shields.io/badge/-vite-05122A?style=flat&logo=vite&logoColor=646CFF)&nbsp;-->
+<!--![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim&logoColor=019733)&nbsp;-->
 
 <!--
 ### 🗃 &nbsp;React Libraries
