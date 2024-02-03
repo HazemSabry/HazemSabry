@@ -6,7 +6,7 @@
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Rubik&duration=2000&pause=100&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=180&height=150&lines=from+ME+import+*;while+True%3A;++++eat();++++code();++++sleep()" alt="Typing SVG" />
 
 - I'm a Software Engineer training to work as Full Stack web developer
-- As a  faculty of engineering cairo alexandria university student, I'm constantly learning and exploring new technologies to improve my skills.
+- As a faculty of engineering alexandria university student, I'm constantly learning and exploring new technologies to improve my skills.
 - Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
 <!--- Check out my portfolio at  to see some of the projects I've worked on.-->
 
