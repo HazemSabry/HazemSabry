@@ -28,6 +28,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420)&nbsp;
+![CentOS](https://img.shields.io/badge/-CentOS-05122A?style=flat&logo=centos&logoColor=#262577)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows10&logoColor=%230078D4)&nbsp;
 ![ChromeOS](https://img.shields.io/badge/-ChromeOS-05122A?style=flat&logo=googlechrome&logoColor=4285F4)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=CB3837)&nbsp;
@@ -35,6 +37,8 @@
 ![pnpm](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm&logoColor=F69220)&nbsp;
 ![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-05122A?style=flat&logo=cssmodules&logoColor=000000)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
+![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat&logo=yaml&logoColor=CB171E)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
 <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;-->
 <!--![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;-->
 <!--![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;-->
