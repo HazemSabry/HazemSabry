@@ -27,6 +27,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim&logoColor=019733)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420)&nbsp;
 ![CentOS](https://img.shields.io/badge/-CentOS-05122A?style=flat&logo=centos&logoColor=#262577)&nbsp;
@@ -72,7 +73,7 @@
 -->
 
 <!--
-### ☁ &nbsp;Hosting Platforms
+### ☁ &nbsp;Cloud Platforms
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=000000)&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazonaws&logoColor=232F3E)&nbsp;
 ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify&logoColor=00C7B7)&nbsp;
@@ -81,8 +82,9 @@
 
 ### 💻 &nbsp;Programming Languages
 <div>
-<img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
-<img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
+<img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/> &nbsp;
+<img width="30" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/> 
 <img width="30" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"/>&nbsp;
 <img width="30" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"/>&nbsp;
 <img width="30" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"/>&nbsp;
