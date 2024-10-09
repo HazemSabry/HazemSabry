@@ -18,7 +18,7 @@
 <a href="https://wa.me/+201117176767" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Hazem%20Sabry-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white">
 </a>
 
-### 🛠 &nbsp;Tech Stack -- 21 Skill
+### 🛠 &nbsp;Tech Stack -- 22 Skill
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Create React App](https://img.shields.io/badge/-Create%20React%20App-05122A?style=flat&logo=createreactapp)&nbsp;
