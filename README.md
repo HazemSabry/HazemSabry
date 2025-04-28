@@ -18,7 +18,7 @@
 <a href="https://wa.me/+201117176767" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Hazem%20Sabry-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white">
 </a>
 
-### 🛠 &nbsp;Tech Stack -- 22 Skill
+### 🛠 &nbsp;Tech Stack -- 27 Skill
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Create React App](https://img.shields.io/badge/-Create%20React%20App-05122A?style=flat&logo=createreactapp)&nbsp;
@@ -37,14 +37,19 @@
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=CB3837)&nbsp;
 ![yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn&logoColor=2C8EBB)&nbsp;
 ![pnpm](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm&logoColor=F69220)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;
+![Vite](https://img.shields.io/badge/-vite-05122A?style=flat&logo=vite&logoColor=646CFF)&nbsp;
 ![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-05122A?style=flat&logo=cssmodules&logoColor=000000)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 ![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat&logo=yaml&logoColor=CB171E)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
+![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins&logoColor=D24939)&nbsp;
+![kubernetes](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5)&nbsp;
+<!--![NXP](https://img.shields.io/badge/-NXP-05122A?style=flat&logo=nxp&logoColor=000000)&nbsp;-->
+<!--![Nx](https://img.shields.io/badge/-Nx-05122A?style=flat&logo=nx&logoColor=143055)&nbsp;-->
 <!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;-->
 <!--![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;-->
-<!--![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;-->
-<!--![Atom](https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom&logoColor=66595C)&nbsp;-->
 <!--![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublimetext&logoColor=FF9800)&nbsp;-->
 <!--![JSS](https://img.shields.io/badge/-JSS-05122A?style=flat&logo=jss&logoColor=F7DF1E)&nbsp;-->
 <!--![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp;-->
@@ -54,12 +59,7 @@
 <!--![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=000000)&nbsp;-->
 <!--![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-05122A?style=flat&logo=mantine&logoColor=#339AF0)&nbsp;-->
 <!--![Turborepo](https://img.shields.io/badge/-Turborepo-05122A?style=flat&logo=turborepo&logoColor=EF4444)&nbsp;-->
-<!--![Nx](https://img.shields.io/badge/-Nx-05122A?style=flat&logo=nx&logoColor=143055)&nbsp;-->
-<!--![NXP](https://img.shields.io/badge/-NXP-05122A?style=flat&logo=nxp&logoColor=000000)&nbsp;-->
-<!--![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;-->
 <!--![Lerna](https://img.shields.io/badge/-Lerna-05122A?style=flat&logo=lerna&logoColor=9333EA)&nbsp;-->
-<!--![Vite](https://img.shields.io/badge/-vite-05122A?style=flat&logo=vite&logoColor=646CFF)&nbsp;-->
-<!--![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim&logoColor=019733)&nbsp;-->
 
 <!--
 ### 🗃 &nbsp;React Libraries
