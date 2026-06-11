@@ -1,102 +1,86 @@
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1945&color=5A6BF7&width=435&lines=Welcome+to+Hazem+Sabry's+profile;I'am+Happy+to+get+you+to+here!" alt="Typing SVG" />
-</p> 
-
-- I'm a Software Engineer training to work as Full Stack web developer
-- As a faculty of engineering alexandria university student, I'm constantly learning and exploring new technologies to improve my skills.
-- Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
-<!--- Check out my portfolio at  to see some of the projects I've worked on.-->
-
-
-### Connect with Me :
-
-<a href="https://www.linkedin.com/in/hazemsabry2002/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Hazem%20Sabry-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-<a href="https://wa.me/+201117176767" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Hazem%20Sabry-25D366?style=for-the-badge&logo=Whatsapp&logoColor=white">
-</a>
-
-### 🛠 &nbsp;Tech Stack -- 27 Skill
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Create React App](https://img.shields.io/badge/-Create%20React%20App-05122A?style=flat&logo=createreactapp)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim&logoColor=019733)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-05122A?style=flat&logo=linux&logoColor=FCC624)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420)&nbsp;
-![CentOS](https://img.shields.io/badge/-CentOS-05122A?style=flat&logo=centos&logoColor=#262577)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows10&logoColor=%230078D4)&nbsp;
-![ChromeOS](https://img.shields.io/badge/-ChromeOS-05122A?style=flat&logo=googlechrome&logoColor=4285F4)&nbsp;
-![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=CB3837)&nbsp;
-![yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn&logoColor=2C8EBB)&nbsp;
-![pnpm](https://img.shields.io/badge/-pnpm-05122A?style=flat&logo=pnpm&logoColor=F69220)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;
-![Vite](https://img.shields.io/badge/-vite-05122A?style=flat&logo=vite&logoColor=646CFF)&nbsp;
-![CSS Modules](https://img.shields.io/badge/-CSS%20Modules-05122A?style=flat&logo=cssmodules&logoColor=000000)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat&logo=yaml&logoColor=CB171E)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=2496ED)&nbsp;
-![jenkins](https://img.shields.io/badge/-jenkins-05122A?style=flat&logo=jenkins&logoColor=D24939)&nbsp;
-![kubernetes](https://img.shields.io/badge/-kubernetes-05122A?style=flat&logo=kubernetes&logoColor=326CE5)&nbsp;
-<!--![NXP](https://img.shields.io/badge/-NXP-05122A?style=flat&logo=nxp&logoColor=000000)&nbsp;-->
-<!--![Nx](https://img.shields.io/badge/-Nx-05122A?style=flat&logo=nx&logoColor=143055)&nbsp;-->
-<!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;-->
-<!--![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;-->
-<!--![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublimetext&logoColor=FF9800)&nbsp;-->
-<!--![JSS](https://img.shields.io/badge/-JSS-05122A?style=flat&logo=jss&logoColor=F7DF1E)&nbsp;-->
-<!--![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=C21325)&nbsp;-->
-<!--![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress&logoColor=17202C)&nbsp;-->
-<!--![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=21759B)&nbsp;-->
-<!--![Tailwind CSS](https://img.shields.io/badge/-Tailwind&20CSS-05122A?style=flat&logo=tailwindcss&logoColor=06B6D4)&nbsp;-->
-<!--![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=nextdotjs&logoColor=000000)&nbsp;-->
-<!--![Mantine UI](https://img.shields.io/badge/-Mantine%20UI-05122A?style=flat&logo=mantine&logoColor=#339AF0)&nbsp;-->
-<!--![Turborepo](https://img.shields.io/badge/-Turborepo-05122A?style=flat&logo=turborepo&logoColor=EF4444)&nbsp;-->
-<!--![Lerna](https://img.shields.io/badge/-Lerna-05122A?style=flat&logo=lerna&logoColor=9333EA)&nbsp;-->
-
-<!--
-### 🗃 &nbsp;React Libraries
-![React Router](https://img.shields.io/badge/-React%20Router-05122A?style=flat&logo=reactrouter&logoColor=FF4154)&nbsp;
-![Redux & Redux Toolkit](https://img.shields.io/badge/-Redux%20&%20Redux%20Toolkit-05122A?style=flat&logo=redux&logoColor=764ABC)&nbsp;
-![Styledcomponents](https://img.shields.io/badge/-Styledcomponents-05122A?style=flat&logo=styledcomponents&logoColor=DB7093)&nbsp;
-![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui&logoColor=007FFF)&nbsp;
-![Semantic Ui React](https://img.shields.io/badge/-Semantic%20Ui%20React-05122A?style=flat&logo=semanticuireact&logoColor=35BDB2)&nbsp;
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-05122A?style=flat&logo=framer&logoColor=0055FF)&nbsp;
-![Axios](https://img.shields.io/badge/-Axios-05122A?style=flat&logo=axios&logoColor=5A29E4)&nbsp;
-![Lodash](https://img.shields.io/badge/-Lodash-05122A?style=flat&logo=lodash&logoColor=3492FF)&nbsp;
--->
-
-<!--
-### ☁ &nbsp;Cloud Platforms
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel&logoColor=000000)&nbsp;
-![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-05122A?style=flat&logo=amazonaws&logoColor=232F3E)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify&logoColor=00C7B7)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
--->
-
-### 💻 &nbsp;Programming Languages
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/></code>
+
+# Hey, I'm Hazem Sabry 👋
+
+### DevOps · Cloud · Infrastructure Engineer
+
+📍 Cairo, Egypt &nbsp;·&nbsp; 💼 Open to Freelance &nbsp;·&nbsp; 🚀 Building reliable systems at scale
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hazemsabry2002)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hazemsabry2002@gmail.com)
+
 </div>
 
-### 🧩⛓️‍💥 &nbsp;DevOps Tools
+---
+
+## 🧭 About Me
+
+I'm a DevOps and Cloud Infrastructure Engineer who builds, automates, and ships — from bare-metal VMware clusters to fully serverless AWS architectures.
+
+I care about infrastructure that is **repeatable**, **observable**, and **hard to break**. Whether it's writing Terraform to provision a production environment from scratch, designing CI/CD pipelines that get out of developers' way, or deploying containerized services on AWS — I focus on the systems beneath the product.
+
+> 💡 **Available for freelance engagements** — DevOps consulting, cloud migrations, CI/CD setup, and infrastructure-as-code.
+
+---
+
+## ⚙️ Core Skills
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/VMware_vSphere-607078?style=flat-square&logo=vmware&logoColor=white)
+
+### 🔁 DevOps & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 🧱 Backend & Full-Stack
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+### 🏢 Egypt Building Decoration — Full-Stack + Cloud
+End-to-end freelance engagement: built a **React 19 / TypeScript** frontend, a **Node.js + Express 5** REST API deployed on **AWS Lambda**, and provisioned the entire AWS infrastructure with **Terraform**.
+`React` `TypeScript` `Node.js` `Express` `AWS Lambda` `API Gateway` `Terraform` `DynamoDB`
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jenkins.png" alt="Jenkins" title="Jenkins"/></code>
+
+![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HazemSabry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HazemSabry&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-<!--
-### 🎓 &nbsp;Tech from Collage
--->
+---
+
+## 🤝 Let's Work Together
+
+I'm available for **freelance projects** in:
+- ☁️ Cloud architecture & AWS setup
+- 🔁 CI/CD pipeline design & automation
+- 🏗️ Infrastructure-as-Code (Terraform)
+- 🖥️ Private infrastructure & VMware virtualization
+- 🔧 DevOps consulting & code-to-cloud delivery
+
+📬 Reach me at **[hazemsabry2002@gmail.com]** or connect on **[LinkedIn](https://linkedin.com/in/hazemsabry2002)**
+
+---
+
+<div align="center">
+  <sub>Built with care from Alexandria, Egypt 🇪🇬</sub>
+</div>
